@@ -205,4 +205,4 @@ public class Character
         EquippedItem = 0;
     }
 }
-//개인과제
+//개인과제 확인
