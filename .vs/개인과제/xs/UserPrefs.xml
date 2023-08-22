@@ -5,17 +5,15 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="개인과제/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="개인과제/Program.cs">
     <Files>
-      <File FileName="개인과제/Program.cs" Line="122" Column="28" />
+      <File FileName="Program.cs" Line="36" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="개인과제" expanded="True">
-            <Node name="개인과제" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="개인과제">
+            <Node name="개인과제" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
