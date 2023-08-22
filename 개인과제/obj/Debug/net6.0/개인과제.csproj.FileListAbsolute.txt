@@ -1,0 +1,15 @@
+/Users/junkwon/Documents/개인과제/개인과제/bin/Debug/net6.0/개인과제
+/Users/junkwon/Documents/개인과제/개인과제/bin/Debug/net6.0/개인과제.deps.json
+/Users/junkwon/Documents/개인과제/개인과제/bin/Debug/net6.0/개인과제.runtimeconfig.json
+/Users/junkwon/Documents/개인과제/개인과제/bin/Debug/net6.0/개인과제.dll
+/Users/junkwon/Documents/개인과제/개인과제/bin/Debug/net6.0/개인과제.pdb
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.csproj.AssemblyReference.cache
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.AssemblyInfoInputs.cache
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.AssemblyInfo.cs
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.csproj.CoreCompileInputs.cache
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.dll
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/refint/개인과제.dll
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.pdb
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/개인과제.genruntimeconfig.cache
+/Users/junkwon/Documents/개인과제/개인과제/obj/Debug/net6.0/ref/개인과제.dll

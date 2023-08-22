@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C14BC45D-D6D2-48C3-94AD-01543F613916}|Default">
+  <MonoDevelop.Ide.ItemProperties.개인과제 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="개인과제/Program.cs">
+    <Files>
+      <File FileName="개인과제/Program.cs" Line="207" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="개인과제" expanded="True">
+            <Node name="개인과제" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
